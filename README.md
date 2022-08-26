@@ -55,7 +55,7 @@ Users should be able to:
         /></a>
 </picture>
 ```
-## Feedbacks
+### Feedbacks
 - Change the Equilibrium anchor a tag, to an h1, if you want to keep your a tag, nest the h1 on it, cause your document always need an h1 tag!
 - Don't use the <picture> tag unless you are gonna render different images with srcset, instead of that you can just nest your img inside the a and the pseudoelements!
 - <--- From [David](https://www.frontendmentor.io/profile/DavidMorgade) --->
